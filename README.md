@@ -1,6 +1,11 @@
 # Rails Template
 
-> **NOTE:**  This is a work in progress. .
+> **NOTE:**  This is a work in progress. 
+
+#### Idea:
+
+The idea is to have rails templates to make it easy to start a new project with your preffered settings.
+Avoid adding required gems manually when you can use a template and have them added while generating the project.
 
 ### Interested in contributing to this repository?
 
